@@ -1,6 +1,5 @@
 # conceptos-previos-markdown
-## segundo nivel
-### tercer nivel
+
 Revisar los aspectos claves de git, readme, licencias y markdown
 
 - elem 1
@@ -16,9 +15,3 @@ public static void main(String [] args){
 
 }
 ````
-
-````python
-print(0)
-def numeroUno 
-    return 8
-``` 
